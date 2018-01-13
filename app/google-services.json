@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585666522221",
+    "firebase_url": "https://catalopia-10e75.firebaseio.com",
+    "project_id": "catalopia-10e75",
+    "storage_bucket": "catalopia-10e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585666522221:android:6c81a3fa630ddc9d",
+        "android_client_info": {
+          "package_name": "com.me.catalopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585666522221-o9cd16ntq577f4il3313jem6hh7ndjp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.me.catalopia",
+            "certificate_hash": "19ffd924c8f9804012df2a94fc356753f355791f"
+          }
+        },
+        {
+          "client_id": "585666522221-1jf366btrvlt6alm9k3lmkggqpgrthiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcLmZ1Gpkl_8VtZ6vL0tGrT94YO_MxSI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585666522221-1jf366btrvlt6alm9k3lmkggqpgrthiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
